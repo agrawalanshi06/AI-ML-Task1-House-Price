@@ -35,5 +35,5 @@ Model is saved as model.pkl using pickle.
 - Use advanced models
 - Build web app UI
 
-## 👨‍💻 Author
+## Author
 Anshi Agrawal
